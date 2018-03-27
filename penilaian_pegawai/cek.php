@@ -25,7 +25,7 @@ if($cek>0){
 } else
 {
 	echo"<script type='text/javascript' language='javascript'>
-	alert('Usermame atau Password anda salah');
+	alert('Usermame dan Password anda salah');
 	window.location.href='login.php';
 	</script>";
 }
